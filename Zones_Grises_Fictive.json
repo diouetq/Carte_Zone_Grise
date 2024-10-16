@@ -1,0 +1,13 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": null,
+        "properties": {
+          "id": 1,
+          "name": "Zone fictive sans coordonnées"
+        }
+      }
+    ]
+  }
